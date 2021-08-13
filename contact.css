@@ -1,0 +1,123 @@
+body{
+    display: block;
+    background-color: #CDF0EA;
+    text-align: center;
+    font-family: arial;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px 45px 5px 45px;
+}
+.form{width:500px;
+  margin:auto;
+  padding-left: 400px;
+  padding:20px;
+  font-size:18px;
+}
+input{
+  font-size: 18px;
+}
+select{
+  font-size: 18px;
+}
+textarea {
+  width:80%;
+  padding:5px;
+  font-size: 18px;
+}
+.button {
+  background-color: #0E9AA7;
+  border: none;
+  color: black;
+  padding: 12px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 12px;
+}
+.button {
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: #204051;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.End{
+  padding-left: 600px;
+}
+
+#heading{
+  font-size: 50px;
+  font-family:Georgia, serif;
+  color: #0E9AA7;
+}
+header a{
+  display:block;
+  padding:14px;
+  color: black;
+  text-decoration: none;
+}
+header li{
+  display:block;
+  padding: 0 45px 0 45px;
+}
+header #branding{
+  float:center;
+  color:black;
+}
+header #branding h1{
+  margin:0;
+}
+header nav{
+  position: relative;
+  margin-left: 450px;
+  float: left;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  padding: 0px;
+}
+header .highlight, header .current a{
+  font-weight: bold;
+  color:black;
+  font-family:"Century Gothic";
+}
+header a{
+  color:black;
+  font-weight: bold;
+  background-color: #0E9AA7;
+  float: left;
+}
+header a:hover{
+  color:white;
+  background-color: #204051;
+  font-weight: bold;
+}
+.Pic1{
+  border-right:none;
+  align-items: center;
+  padding:0px;
+  margin-right: 0px;
+  margin-top: 40px;
+  width:300px;
+  height: 300px;
+}
+footer{
+  border-top:#00d7d7 3px solid;
+  margin-top:20px;
+}
+.footerbar {
+  width: 100%; /* Full-width */
+  overflow: auto; /* Overflow due to float */
+  background-color:#d7ffff;
+  float: left; /* Float links side by side */
+  text-align: center; /* Center-align text */
+  padding:10px 0; /* Some top and bottom padding */
+  font-weight: 500;
+  font-size:17px; /* Increased font size */
+}
+p{
+  font-size: 20px;
+  text-align: center;
+}

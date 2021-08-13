@@ -1,0 +1,117 @@
+h1{
+  align-content: center;
+  font-size: 40px;
+}
+#image{
+  width: 40px;
+  height:80px;
+}
+body{display: block;
+background-color: #CDF0EA;
+text-align: center;
+font-family: arial;
+margin: auto;
+ padding: 5px 45px 5px 45px;
+}
+#heading{
+  font-size: 50px;
+  font-family:Georgia, serif;
+  color: #0E9AA7;
+}
+header{
+  padding-top:10px;
+  min-height:70px;
+}
+header a{
+  display:block;
+  padding:14px;
+  color: black;
+  text-decoration: none;
+}
+header li{
+  display:block;
+  padding: 0 20px 0 20px;
+  max-width: 900px;
+}
+footer{
+  border-top:#00d7d7 3px solid;
+  margin-top:20px;
+}
+.footerbar {
+  width: 100%; /* Full-width */
+  overflow: auto; /* Overflow due to float */
+  background-color:#d7ffff;
+  float: left; /* Float links side by side */
+  text-align: center; /* Center-align text */
+  padding:10px 0; /* Some top and bottom padding */
+  font-weight: 500;
+  font-size:17px; /* Increased font size */
+}
+#heading{
+  font-size: 50px;
+  font-family:Georgia, serif;
+  color: #0E9AA7;
+}
+header a{
+  display:block;
+  padding:14px;
+  color: black;
+  text-decoration: none;
+}
+header li{
+  display:block;
+  padding: 0 45px 0 45px;
+}
+header #branding{
+  float:center;
+  color:black;
+}
+header #branding h1{
+  margin:0;
+}
+header nav{
+  position: relative;
+  margin-left: 450px;
+  float: left;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  padding: 0px;
+}
+header .highlight, header .current a{
+  font-weight: bold;
+  color:black;
+  font-family:"Century Gothic";
+}
+header a{
+  color:black;
+  font-weight: bold;
+  background-color: #0E9AA7;
+  float: left;
+}
+header a:hover{
+  color:white;
+  background-color: #204051;
+  font-weight: bold;
+}
+ul{
+text-decoration: none;
+text-align: left;
+}
+
+.Pic1{
+  border-right:none;
+  align-items: center;
+  padding:0px;
+  margin-right: 0px;
+  margin-top: 40px;
+  width:300px;
+  height: 300px;
+}
+p{
+text-align: left;
+font-style: normal;
+font-size: 20px;
+}
+.image{
+  padding: 5px 45px 5px 45px
+}
